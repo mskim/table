@@ -1,0 +1,173 @@
+--- 
+:version: "1.0"
+:doc_info:
+  :title: SoftwareLab
+  :paper_type:
+  - 260.79
+  - 147.4
+  :page_width: 260.79
+  :page_height: 147.4
+:pages:
+- Page:
+    :graphics:
+    - Container:
+        :mode: horizontal
+        :space: 6
+        :graphics:
+        - Container:
+            :graphics:
+            - Text:
+                :att_string_array: []
+            - Text:
+                :unit_length: 3.0
+                :att_string_array:
+                - :string: ' SoftwareLab'
+                  :font: Helvetica-Bold
+                  :size: 10.12
+        - Image:
+            :frame: '[91.5966666666666, 2.0, 163.193333333333, 26.5333333333333]'
+            :unit_length: 2
+            :local_image: logosymbol.pdf
+            :source_frame:
+            - -27.6070351758793
+            - 0.0
+            - 172.214070351759
+            - 28.0
+    - Container:
+        :mode: horizontal
+        :unit_length: 2.5
+        :graphics:
+        - Image:
+            :frame: '[2.0, 2.0, 62.4475, 72.3333333333333]'
+            :project_image: QRCode/{{name}}.png
+            :source_frame:
+            - 11.6853283410138
+            - 0.0
+            - 147.629343317972
+            - 171.0
+        - Container:
+            :unit_length: 3
+            :space: 0.0
+            :graphics:
+            - Text:
+                :unit_length: 3.0
+                :att_string_array:
+                - :string: '{{name}}'
+                  :font: Helvetica
+                  :size: 15.022
+            - Text:
+                :unit_length: 2.0
+                :att_string_array:
+                - :string: '{{title}} / {{division}}'
+                  :font: Helvetica
+                  :size: 9.48099999999999
+            - Text:
+                :unit_length: 2.0
+                :att_string_array:
+                - :string: M
+                  :font: Helvetica
+                  :size: 9.48099999999999
+                  :text_color: RGB=1.0,0.0308210427172547,0.106866898204619,1.0
+                - :string: ": {{cell}}\n"
+                  :font: Helvetica
+                  :size: 9.48099999999999
+            - Text:
+                :unit_length: 2.0
+                :att_string_array:
+                - :string: '{{email}}'
+                  :font: AppleGothic
+                  :size: 9.48099999999999
+    - Container:
+        :graphics:
+        - Text:
+            :att_string_array:
+            - :string: "\uACBD\uAE30\uB3C4 \uC131\uB0A8\uC2DC \uBD84\uB2F9\uAD6C \uBBF8\uAE08\uC5ED
+                7\uBC88\uCD9C\uAD6C \uCE74\uD398\uBCA0\uB124 2\uCE35\n"
+              :font: SandTg
+              :size: 7.813
+        - Text:
+            :att_string_array:
+            - :string: www.sofwarelab.me
+              :font: AppleGothic
+              :size: 7.813
+- Page:
+    :graphics:
+    - Container:
+        :mode: horizontal
+        :graphics:
+        - Container:
+            :graphics:
+            - Text:
+                :att_string_array: []
+            - Text:
+                :unit_length: 3.0
+                :att_string_array:
+                - :string: SoftwareLab
+                  :font: Helvetica-Bold
+                  :size: 10.12
+        - Image:
+            :frame: '[88.2633333333333, 2.0, 166.526666666667, 26.5333333333333]'
+            :unit_length: 2
+            :local_image: logosymbol.pdf
+            :source_frame:
+            - -29.3658291457289
+            - 0.0
+            - 175.731658291458
+            - 28.0
+    - Container:
+        :mode: horizontal
+        :unit_length: 2.5
+        :graphics:
+        - Image:
+            :frame: '[2.0, 2.0, 62.4475, 72.3333333333333]'
+            :project_image: QRCode/{{name}}.png
+            :source_frame:
+            - 11.6853283410138
+            - 0.0
+            - 147.629343317972
+            - 171.0
+        - Container:
+            :unit_length: 3
+            :space: 0.0
+            :graphics:
+            - Text:
+                :unit_length: 3.0
+                :att_string_array:
+                - :string: '{{en_name}}'
+                  :font: Helvetica
+                  :size: 15.022
+            - Text:
+                :unit_length: 2.0
+                :att_string_array:
+                - :string: '{{en_title}} / {{en_division}}'
+                  :font: Helvetica
+                  :size: 9.48099999999999
+            - Text:
+                :unit_length: 2.0
+                :att_string_array:
+                - :string: M
+                  :font: Helvetica
+                  :size: 9.48099999999999
+                  :text_color: RGB=1.0,0.0308210427172547,0.106866898204619,1.0
+                - :string: ": {{cell}}\n"
+                  :font: Helvetica
+                  :size: 9.48099999999999
+            - Text:
+                :unit_length: 2.0
+                :att_string_array:
+                - :string: '{{email}}'
+                  :font: AppleGothic
+                  :size: 9.48099999999999
+    - Container:
+        :graphics:
+        - Text:
+            :att_string_array:
+            - :string: 'Kyung-gi-do Sung-nam-si Bundang-Gu Meegum Station #7 exit
+                CafeBene 2nd Fl.'
+              :font: SandTg
+              :size: 7.813
+        - Text:
+            :att_string_array:
+            - :string: www.sofwarelab.me
+              :font: AppleGothic
+              :size: 7.813
